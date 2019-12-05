@@ -1,0 +1,5 @@
+npm install
+npm install jquery
+npm install bootstrap
+npm install handlebars
+npm install sammy
